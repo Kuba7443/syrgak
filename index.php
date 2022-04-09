@@ -7,7 +7,7 @@
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		
 		<head>
- 		<link rel="shortcut icon" href="ava.png" type="image/x-icon">
+ 		<link rel="shortcut icon" href="hotdeal.png" type="image/x-icon">
 		</head>
 		<title>SyrShop</title>
 		
