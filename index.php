@@ -9,7 +9,7 @@
 		
 		<title>SyrShop</title>
 		<head>
- 	<link rel="shortcut icon" href="hotdeal.png" type="image/x-icon">
+ 	<link rel="shortcut icon" href="./img/hotdeal.png" type="image/x-icon">
 	</head>
 
 		<!-- Google font -->
