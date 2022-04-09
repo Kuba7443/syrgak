@@ -977,16 +977,16 @@
 							</form>
 							<ul class="newsletter-follow">
 								<li>
-									<a href="#"><i class="fa fa-facebook"></i></a>
+									<a href="#"><i class="https://ru-ru.facebook.com/"></i></a>
 								</li>
 								<li>
-									<a href="#"><i class="fa fa-twitter"></i></a>
+									<a href="#"><i class="https://twitter.com/"></i></a>
 								</li>
 								<li>
-									<a href="#"><i class="fa fa-instagram"></i></a>
+									<a href="#"><i class="https://www.instagram.com/"></i></a>
 								</li>
 								<li>
-									<a href="#"><i class="fa fa-pinterest"></i></a>
+									<a href="#"><i class="https://www.pinterest.com/"></i></a>
 								</li>
 							</ul>
 						</div>
