@@ -6,11 +6,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		
-		<head>
- 		<link rel="shortcut icon" href="hotdeal.png" type="image/x-icon">
-		</head>
-		<title>SyrShop</title>
 		
+		<title>SyrShop</title>
+		<head>
+ 	<link rel="shortcut icon" href="hotdeal.png" type="image/x-icon">
+	</head>
 
 		<!-- Google font -->
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
